@@ -157,5 +157,5 @@ The Library Management System provides a simple way to manage basic library oper
 
 ## Author
 
-**Student Project – VITyarthi BYOP**
+**SAUMY ANAND- 25BAI10196**
 
